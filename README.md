@@ -1,2 +1,2 @@
-- FSA.py: Finite State Automaton
-- TM.py: Turing Machine
+- FSA.py: Finite-state automaton
+- TM.py: Turing machine
